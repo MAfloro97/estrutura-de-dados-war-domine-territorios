@@ -1,0 +1,11 @@
+// Função principal do programa. Responsável por:
+
+// 1. Declarar um vetor de 5 structs do tipo Territorio para armazenar os dados.
+// 2. Solicitar ao usuário, de forma interativa e validada, as informações de cada território:
+//    - Nome (string sem espaços, até 29 caracteres)
+//    - Cor do exército (string sem espaços, até 9 caracteres)
+//    - Quantidade de tropas (número inteiro)
+// 3. Garantir a robustez da entrada com tratamento de erros e limpeza do buffer.
+// 4. Exibir, ao final do cadastro, todos os territórios registrados com formatação clara.
+// O programa atende aos requisitos de usabilidade, validação, documentação e manutenibilidade.
+int main() {
